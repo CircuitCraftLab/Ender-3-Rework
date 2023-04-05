@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RNUNWLGL
 
 [Document3]
-DocumentPath=Step motor driver.SchDoc
+DocumentPath=MS35775 step motor driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XTUALEEL
 
 [Document4]
-DocumentPath=MCU.SchDoc
+DocumentPath=RP2040 MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -234,6 +234,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATDEHLEP
+
+[Document12]
+DocumentPath=SIT1051 CAN bus.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LUKVIRJK
 
 [Configuration1]
 Name=Sources
