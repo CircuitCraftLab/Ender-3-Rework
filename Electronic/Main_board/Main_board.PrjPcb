@@ -220,6 +220,57 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
+DocumentPath=USB HUB FE1.1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FJRRYODH
+
+[Document12]
+DocumentPath=USB-Ethernet 100M SR9900A.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IWFKJMGS
+
+[Document13]
+DocumentPath=MCU HC32F460KETA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YKJUYEKV
+
+[Document14]
 DocumentPath=Main_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCNBYPDV
 
-[Document12]
+[Document15]
 DocumentPath=Main_board.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document16]
 DocumentPath=MPU Allwinner A33.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1286,11 +1337,17 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=CircuitCraft(HOME).DbLib/MEMORY_NAND
-ComponentDesignItemID0=H27UCG8T2ATR
-ComponentSymbolReference0=H27UCG8T2ATR
+ComponentLibraryIdentifier0=CircuitCraft(ENERGOMERA).DbLib/INTERFACE_ETHERNET
+ComponentDesignItemID0=SR9900AI
+ComponentSymbolReference0=SR9900AI
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=CircuitCraft(ENERGOMERA).DbLib/INTERFACE_USB
+ComponentDesignItemID1=FE1.1
+ComponentSymbolReference1=FE1.1
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1324,6 +1381,11 @@ ParameterName8=Part Number
 ParameterUpdate8=1
 ParameterName9=Part Status
 ParameterUpdate9=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=TSQFP50P900X900X160-48N
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
