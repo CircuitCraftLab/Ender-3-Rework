@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
 NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
@@ -99,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XTUALEEL
 
 [Document4]
-DocumentPath=RP2040 MCU.SchDoc
+DocumentPath=CKS32F103C8T6 MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
