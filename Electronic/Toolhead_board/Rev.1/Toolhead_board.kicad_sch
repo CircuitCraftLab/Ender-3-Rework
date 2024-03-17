@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d34814f7-e3e4-4bb0-9548-ee5f29b2e1c7")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 67.31 20.32)
+		(size 24.13 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "358da865-c3bf-49ff-a375-e0e47a547e90")
+		(property "Sheetname" "STM32F103C8T6"
+			(at 67.31 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32F103C8T6.kicad_sch"
+			(at 67.31 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Toolhead_board"
+				(path "/d34814f7-e3e4-4bb0-9548-ee5f29b2e1c7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
