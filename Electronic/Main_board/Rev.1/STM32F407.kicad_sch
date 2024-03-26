@@ -4720,6 +4720,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 92.71) (xy 120.65 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50c5a275-524f-426c-b56e-1ceb3b8095d4")
+	)
+	(wire
+		(pts
 			(xy 176.53 41.91) (xy 176.53 40.64)
 		)
 		(stroke
@@ -5010,6 +5020,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 80.01) (xy 120.65 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a028bf1-9545-4642-b1d4-2ea60e42a850")
+	)
+	(wire
+		(pts
 			(xy 97.79 176.53) (xy 97.79 177.8)
 		)
 		(stroke
@@ -5297,6 +5317,16 @@
 			(type default)
 		)
 		(uuid "a13f4cf3-a5fa-4b7f-a24f-aabd54e00e18")
+	)
+	(wire
+		(pts
+			(xy 132.08 77.47) (xy 120.65 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2d6d08a-0a99-4acd-a085-e239f2d33fce")
 	)
 	(wire
 		(pts
@@ -6048,7 +6078,7 @@
 		(uuid "033d5431-6fc6-43d5-9725-fa42a72ef784")
 	)
 	(label "SWCLK"
-		(at 120.65 80.01 0)
+		(at 127 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6114,7 +6144,7 @@
 		(uuid "36706ba0-a6de-4b6d-a8a5-9742befa8671")
 	)
 	(label "BOOT1"
-		(at 120.65 92.71 0)
+		(at 127 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6158,7 +6188,7 @@
 		(uuid "af90bd90-8069-4d50-bec5-d5819120e48f")
 	)
 	(label "SWDIO"
-		(at 120.65 77.47 0)
+		(at 127 77.47 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
